@@ -11,7 +11,7 @@
       <Base Str="2" Con="0" Int="-2" Wis="-1" Dex="0" Hp="-500" Mp="1000"/>
       <Combat Hit="0" Dmg="0" Ac="0" Regen="0" Mr="20"/>
     </StatModifiers>
-    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Flags>Depositable Tailorable Exchangeable Master</Flags>
     <Variants/>
     <Damage>
       <Small Min="4" Max="20"/>
