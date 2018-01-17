@@ -5,13 +5,13 @@
   <Properties>
     <Appearance Sprite="932" DisplaySprite="1" BodyStyle="Transparent"/>
     <Stackable Max="1"/>
-    <Physical Value="25500" Weight="5" Durability="300000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Physical Value="25500" Weight="5" Durability="25500" Perishable="false" Vendorable="false" Bound="false"/>
     <Equipment Slot="Weapon" Unique="false" WeaponType="Staff"/>
     <StatModifiers>
       <Base Str="2" Con="0" Int="-1" Wis="-1" Dex="0" Hp="-500" Mp="1000"/>
       <Combat Hit="0" Dmg="0" Ac="0" Regen="0" Mr="20"/>
     </StatModifiers>
-    <Flags>Depositable Tailorable Exchangeable Master</Flags>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
     <Variants/>
     <Damage>
       <Small Min="4" Max="20"/>
