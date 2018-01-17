@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Map xmlns="http://www.hybrasyl.com/XML/Maps" Id="143" X="7" Y="7">
+  <Name>Mileth Inn Corridor 6</Name>
+  <Warps>
+    <Warp X="4" Y="7">
+      <MapTarget X="2" Y="1">Mileth Inn Corridor 2</MapTarget>
+    </Warp>
+	<Warp X="5" Y="7">
+      <MapTarget X="2" Y="1">Mileth Inn Corridor 2</MapTarget>
+    </Warp>
+  </Warps>
+</Map>
