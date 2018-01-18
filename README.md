@@ -1,5 +1,7 @@
 # HybraDB
-
+OpenSource DataBase For Hybrasyl Project 
+you can help whit Issuses and PR on projet.
+Thank you ! :)
 ## Item
 ### Weapon
 * [Peasant](https://github.com/shadowoffice/HybraDB/tree/master/items/Weapons/Peasant) - All Finish Need Make Trader or Drops
