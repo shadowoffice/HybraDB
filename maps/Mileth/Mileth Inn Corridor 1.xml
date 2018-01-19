@@ -14,19 +14,15 @@
 	   <Warp X="0" Y="14">
       <MapTarget X="6" Y="4">Mileth Inn Room 1</MapTarget>
     </Warp>
-		</Warp>
 	   <Warp X="0" Y="11">
       <MapTarget X="2" Y="3">Mileth Inn Room 2</MapTarget>
     </Warp>
-		</Warp>
 	   <Warp X="0" Y="8">
       <MapTarget X="2" Y="3">Mileth Inn Room 3</MapTarget>
     </Warp>
-		</Warp>
 	   <Warp X="0" Y="6">
       <MapTarget X="2" Y="3">Mileth Inn Room 4</MapTarget>
     </Warp>
-		</Warp>
 	   <Warp X="0" Y="4">
       <MapTarget X="2" Y="3">Mileth Inn Room 5</MapTarget>
     </Warp>
