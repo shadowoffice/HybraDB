@@ -11,7 +11,6 @@
 	   <Warp X="3" Y="0">
       <MapTarget X="2" Y="3">Mileth Inn Corridor 2</MapTarget>
     </Warp>
-	</Warp>
 	   <Warp X="0" Y="14">
       <MapTarget X="6" Y="4">Mileth Inn Room 1</MapTarget>
     </Warp>
