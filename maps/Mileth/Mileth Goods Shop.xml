@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Map xmlns="http://www.hybrasyl.com/XML/Maps" Id="130" X="15" Y="15">
+  <Name>Mileth Goods Shop</Name>
+  <Warps>
+    <Warp X="6" Y="14">
+      <MapTarget X="42" Y="59">Mileth Village</MapTarget>
+    </Warp>
+	<Warp X="7" Y="14">
+      <MapTarget X="42" Y="59">Mileth Village</MapTarget>
+    </Warp>
+  </Warps>
+  <Npcs>
+    <Npc Name="Inn Keeper" X="7" Y="7" Direction="2"/>
+  </Npcs>
+</Map>
+<!-- Scripted By ShadowOffice  -->

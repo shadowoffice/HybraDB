@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Map xmlns="http://www.hybrasyl.com/XML/Maps" Id="134" X="15" Y="15">
+  <Name>Mileth Taverne</Name>
+  <Warps>
+    <Warp X="14" Y="5">
+      <MapTarget X="70" Y="55">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="14" Y="4">
+      <MapTarget X="70" Y="54">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="10" Y="14">
+      <MapTarget X="12" Y="1">Mileth Restaurant</MapTarget>
+    </Warp>
+    <Warp X="11" Y="14">
+      <MapTarget X="12" Y="1">Mileth Restaurant</MapTarget>
+    </Warp>
+  </Warps>
+  <Npcs>
+    <Npc Name="Duana" X="7" Y="11" Direction="2"/>
+  </Npcs>
+  <Npcs>
+    <Npc Name="Thelados" X="3" Y="14" Direction="0"/>
+  </Npcs>
+  <Npcs>
+    <Npc Name="Teague" X="12" Y="10" Direction="2"/>
+  </Npcs>
+  <Npcs>
+    <Npc Name="Aingeal" X="6" Y="5" Direction="0"/>
+  </Npcs>
+</Map>
+<!-- Scripted By ShadowOffice  -->

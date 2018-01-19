@@ -3,22 +3,23 @@
   <Name>Mileth Inn</Name>
   <Warps>
     <Warp X="5" Y="11">
-      <MapTarget X="27" Y="44">Mileth</MapTarget>
+      <MapTarget X="27" Y="44">Mileth Village</MapTarget>
     </Warp>
     <Warp X="6" Y="11">
-      <MapTarget X="27" Y="44">Mileth</MapTarget>
+      <MapTarget X="27" Y="44">Mileth Village</MapTarget>
     </Warp>
     <Warp X="11" Y="2">
-      <MapTarget X="33" Y="37">Mileth</MapTarget>
+      <MapTarget X="33" Y="37">Mileth Village</MapTarget>
     </Warp>
     <Warp X="11" Y="3">
-      <MapTarget X="33" Y="37">Mileth</MapTarget>
+      <MapTarget X="33" Y="37">Mileth Village</MapTarget>
     </Warp>
 	<Warp X="0" Y="9">
       <MapTarget X="3" Y="15">Mileth Inn Corridor 1</MapTarget>
     </Warp>
   </Warps>
   <Npcs>
-    <Npc Name="Inn Keeper" X="3" Y="3" Direction="0"/>
+    <Npc Name="Riona" X="3" Y="3" Direction="0"/>
   </Npcs>
 </Map>
+<!-- Scripted By ShadowOffice  -->
