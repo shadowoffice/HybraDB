@@ -13,7 +13,7 @@ Thank you ! :)
 
 ### Armor
 #### Body
-* [Peasant](https://github.com/shadowoffice/HybraDB/tree/master/items/) - Work on script
+* [Peasant](https://github.com/shadowoffice/HybraDB/tree/master/items/) - All Finish Need Make Trader or Drops (check Tailorable)
 * [Monk](https://github.com/shadowoffice/HybraDB/tree/master/items/) - Work on script
 * [Priest](https://github.com/shadowoffice/HybraDB/tree/master/items/) - Work on script
 * [Rogue](https://github.com/shadowoffice/HybraDB/tree/master/items/) - Work on script
@@ -40,4 +40,8 @@ Thank you ! :)
 
 ### Consumable Items
 
+
+
+## Maps
+* [Mileth](https://github.com/shadowoffice/HybraDB/tree/master/items/) -Finish Need Fix Warps
 
