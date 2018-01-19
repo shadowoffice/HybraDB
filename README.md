@@ -7,7 +7,7 @@ Thank you ! :)
 * [Peasant](https://github.com/shadowoffice/HybraDB/tree/master/items/Weapons/Peasant) - All Finish Need Make Trader or Drops
 * [Monk](https://github.com/shadowoffice/HybraDB/tree/master/items/Weapons/Monk) - All Finish Need Make Trader or Drops
 * [Priest](https://github.com/shadowoffice/HybraDB/tree/master/items/Weapons/Priest) - All Finish Need Make Trader or Drops
-* [Rogue](https://github.com/shadowoffice/HybraDB/tree/master/items/Weapons/Rogue) -= Finish Dagger and Secrets and Wipes no make Bow for reason not Bot Type on XSD found and not found Secrets and Wipes Type too and i dont know ont game what its good type :)
+* [Rogue](https://github.com/shadowoffice/HybraDB/tree/master/items/Weapons/Rogue) -= Fix in Few Houre
 * [Warrior](https://github.com/shadowoffice/HybraDB/tree/master/items/Weapons/Warrior) - All Finish Need Make Trader or Drops
 * [Wizard](https://github.com/shadowoffice/HybraDB/tree/master/items/Weapons/Wizard) - All Finish Need Make Trader or Drops
 
@@ -43,5 +43,5 @@ Thank you ! :)
 
 
 ## Maps
-* [Mileth](https://github.com/shadowoffice/HybraDB/tree/master/items/) -Finish Need Fix Warps
+* [Mileth](https://github.com/shadowoffice/HybraDB/tree/master/maps/Mileth) -Finish Need Fix Warps
 
