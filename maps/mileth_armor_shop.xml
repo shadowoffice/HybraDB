@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<Map xmlns="http://www.hybrasyl.com/XML/Maps" Id="133" X="12" Y="12">
+<Map xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02" Id="133" X="12" Y="12">
   <Name>Mileth Armor Shop</Name>
   <Warps>
     <Warp X="11" Y="9">

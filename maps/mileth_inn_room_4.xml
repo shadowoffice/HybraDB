@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<Map xmlns="http://www.hybrasyl.com/XML/Maps" Id="141" X="8" Y="8">
+<Map xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02" Id="141" X="8" Y="8">
   <Name>Mileth Inn Room 4</Name>
   <Warps>
     <Warp X="4" Y="7">
       <MapTarget X="1" Y="5">Mileth Inn Corridor 1</MapTarget>
     </Warp>
-	<Warp X="5" Y="7">
+    <Warp X="5" Y="7">
       <MapTarget X="1" Y="5">Mileth Inn Corridor 1</MapTarget>
     </Warp>
   </Warps>
