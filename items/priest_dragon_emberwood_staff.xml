@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Dragon Emberwood Staff</Name>
+  <Properties>
+    <Appearance Sprite="13436" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="1003200" Weight="7" Durability="40000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="OneHand"/>
+    <StatModifiers>
+      <Base Str="0" Con="0" Int="10" Wis="15" Dex="0" Hp="17000" Mp="17000"/>
+      <Combat Hit="10" Dmg="5" Ac="-14" Regen="0" Mr="40"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="7" Max="28"/>
+      <Large Min="191" Max="211"/>
+    </Damage>
+    <Restrictions>
+      <Ab Min="90"/>
+      <Class>Priest</Class>
+    </Restrictions>
+  </Properties>
+</Item>

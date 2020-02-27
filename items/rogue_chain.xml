@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Chain</Name>
+  <Properties>
+    <Appearance Sprite="524" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="70100" Weight="14" Durability="40000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="Dagger"/>
+    <StatModifiers>
+      <Base Str="0" Con="0" Int="0" Wis="0" Dex="0" Hp="0" Mp="0"/>
+      <Combat Hit="0" Dmg="0" Ac="0" Regen="0" Mr="0"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="105" Max="110"/>
+      <Large Min="155" Max="181"/>
+    </Damage>
+    <Restrictions>
+      <Level Min="80"/>
+      <Class>Rogue</Class>
+    </Restrictions>
+  </Properties>
+</Item>

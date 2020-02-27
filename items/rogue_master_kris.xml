@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Master Kris</Name>
+  <Properties>
+    <Appearance Sprite="1011" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="40000" Weight="8" Durability="3000000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="Dagger"/>
+    <StatModifiers>
+      <Base Str="1" Con="0" Int="-1" Wis="-1" Dex="1" Hp="1000" Mp="1000"/>
+      <Combat Hit="11" Dmg="1" Ac="3" Regen="0" Mr="10"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable Master</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="445" Max="575"/>
+      <Large Min="540" Max="600"/>
+    </Damage>
+    <Restrictions>
+      <Level Min="99"/>
+      <Class>Rogue</Class>
+    </Restrictions>
+  </Properties>
+</Item>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Eagles Grasp</Name>
+  <Properties>
+    <Appearance Sprite="13484" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="500000" Weight="5" Durability="1000000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="OneHand"/>
+    <StatModifiers>
+      <Base Str="1" Con="10" Int="10" Wis="10" Dex="10" Hp="10200" Mp="7500"/>
+      <Combat Hit="25" Dmg="35" Ac="-1" Regen="0" Mr="20"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="1575" Max="1774"/>
+      <Large Min="1850" Max="2020"/>
+    </Damage>
+    <Restrictions>
+      <Ab Min="90"/>
+      <Class>Monk</Class>
+    </Restrictions>
+  </Properties>
+</Item>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Hellreavers Blade</Name>
+  <Properties>
+    <Appearance Sprite="13437" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="800000" Weight="25" Durability="1032000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="TwoHand"/>
+    <StatModifiers>
+      <Base Str="17" Con="11" Int="0" Wis="0" Dex="13" Hp="15500" Mp="0"/>
+      <Combat Hit="20" Dmg="13" Ac="-6" Regen="0" Mr="10"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="2201" Max="2305"/>
+      <Large Min="2340" Max="2502"/>
+    </Damage>
+    <Restrictions>
+      <Ab Min="90"/>
+      <Class>Warrior</Class>
+    </Restrictions>
+  </Properties>
+</Item>

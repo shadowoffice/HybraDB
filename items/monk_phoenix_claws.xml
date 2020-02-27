@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Phoenix Claws</Name>
+  <Properties>
+    <Appearance Sprite="1421" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="40000" Weight="8" Durability="3000000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="Claw"/>
+    <StatModifiers>
+      <Base Str="2" Con="1" Int="0" Wis="0" Dex="0" Hp="500" Mp="500"/>
+      <Combat Hit="7" Dmg="14" Ac="-3" Regen="0" Mr="20"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable Master</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="674" Max="714"/>
+      <Large Min="804" Max="834"/>
+    </Damage>
+    <Restrictions>
+      <Level Min="99"/>
+      <Class>Monk</Class>
+    </Restrictions>
+  </Properties>
+</Item>

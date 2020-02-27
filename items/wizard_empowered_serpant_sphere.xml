@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Empowered Serpant Sphere</Name>
+  <Properties>
+    <Appearance Sprite="2374" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="103200" Weight="7" Durability="40000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="Staff"/>
+    <StatModifiers>
+      <Base Str="0" Con="0" Int="10" Wis="5" Dex="0" Hp="5000" Mp="10000"/>
+      <Combat Hit="1" Dmg="1" Ac="-8" Regen="0" Mr="20"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="4" Max="20"/>
+      <Large Min="136" Max="150"/>
+    </Damage>
+    <Restrictions>
+      <Ab Min="55"/>
+      <Class>Wizard</Class>
+    </Restrictions>
+  </Properties>
+</Item>

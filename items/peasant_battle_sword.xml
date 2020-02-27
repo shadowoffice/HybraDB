@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Battle Sword</Name>
+  <Properties>
+    <Appearance Sprite="171" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="5000" Weight="10" Durability="100000" Perishable="false" Vendorable="true" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="OneHand"/>
+    <StatModifiers>
+      <Base Str="0" Con="0" Int="0" Wis="-1" Dex="0" Hp="0" Mp="-1000"/>
+      <Combat Hit="0" Dmg="0" Ac="0" Regen="0" Mr="0"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="33" Max="43"/>
+      <Large Min="33" Max="43"/>
+    </Damage>
+    <Restrictions>
+      <Level Min="26"/>
+    </Restrictions>
+  </Properties>
+</Item>

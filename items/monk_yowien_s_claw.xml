@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Yowien's Claw</Name>
+  <Properties>
+    <Appearance Sprite="1286" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="500000" Weight="12" Durability="1000000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="Claw"/>
+    <StatModifiers>
+      <Base Str="5" Con="5" Int="5" Wis="5" Dex="5" Hp="7800" Mp="5000"/>
+      <Combat Hit="16" Dmg="20" Ac="-8" Regen="0" Mr="10"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="1134" Max="1389"/>
+      <Large Min="1379" Max="1569"/>
+    </Damage>
+    <Restrictions>
+      <Ab Min="65"/>
+      <Class>Monk</Class>
+    </Restrictions>
+  </Properties>
+</Item>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Yowien Tree Staff</Name>
+  <Properties>
+    <Appearance Sprite="13541" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="103200" Weight="7" Durability="400000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="Staff"/>
+    <StatModifiers>
+      <Base Str="0" Con="0" Int="12" Wis="7" Dex="0" Hp="15000" Mp="20500"/>
+      <Combat Hit="5" Dmg="2" Ac="-14" Regen="0" Mr="40"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="6" Max="25"/>
+      <Large Min="172" Max="189"/>
+    </Damage>
+    <Restrictions>
+      <Ab Min="80"/>
+      <Class>Wizard</Class>
+    </Restrictions>
+  </Properties>
+</Item>

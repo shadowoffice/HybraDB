@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Enchanted Kalkuri</Name>
+  <Properties>
+    <Appearance Sprite="911" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="30000" Weight="11" Durability="3000000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="OneHand"/>
+    <StatModifiers>
+      <Base Str="0" Con="0" Int="0" Wis="0" Dex="0" Hp="500" Mp="500"/>
+      <Combat Hit="5" Dmg="10" Ac="-5" Regen="0" Mr="10"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable Master</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="324" Max="364"/>
+      <Large Min="345" Max="484"/>
+    </Damage>
+    <Restrictions>
+      <Level Min="99"/>
+      <Class>Monk</Class>
+    </Restrictions>
+  </Properties>
+</Item>

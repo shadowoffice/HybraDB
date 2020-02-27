@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Pirate Blouse</Name>
+  <Properties>
+    <Appearance Sprite="1746" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="5000000" Weight="4" Durability="1000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Armor" Unique="false" WeaponType="None"/>
+    <StatModifiers>
+      <Base Str="0" Con="0" Int="0" Wis="0" Dex="0" Hp="0" Mp="0"/>
+      <Combat Hit="0" Dmg="0" Ac="-12" Regen="0" Mr="0"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Variants/>
+    <Restrictions>
+      <Level Min="11"/>
+      <Gender>Female</Gender>
+    </Restrictions>
+  </Properties>
+</Item>
