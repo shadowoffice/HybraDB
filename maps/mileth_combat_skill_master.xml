@@ -13,7 +13,7 @@
     </Warp>
   </Warps>
   <Npcs>
-    <Npc Name="Keallach" X="5" Y="5" Direction="2"/>
+    <Npc Name="Keallach" X="5" Y="5" Direction="South"/>
   </Npcs>
 </Map>
 <!-- Scripted By ShadowOffice  -->

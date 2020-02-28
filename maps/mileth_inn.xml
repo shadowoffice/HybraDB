@@ -19,7 +19,7 @@
     </Warp>
   </Warps>
   <Npcs>
-    <Npc Name="Riona" X="3" Y="3" Direction="0"/>
+    <Npc Name="Riona" X="3" Y="3" Direction="North"/>
   </Npcs>
 </Map>
 <!-- Scripted By ShadowOffice  -->

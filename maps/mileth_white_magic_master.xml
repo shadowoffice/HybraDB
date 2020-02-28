@@ -16,7 +16,7 @@
     </Warp>
   </Warps>
   <Npcs>
-    <Npc Name="Devlin" X="5" Y="2" Direction="2"/>
+    <Npc Name="Devlin" X="5" Y="2" Direction="South"/>
   </Npcs>
 </Map>
 <!-- Scripted By ShadowOffice  -->

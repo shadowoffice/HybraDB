@@ -10,16 +10,16 @@
     </Warp>
   </Warps>
   <Npcs>
-    <Npc Name="Gallen" X="8" Y="2" Direction="3"/>
+    <Npc Name="Gallen" X="8" Y="2" Direction="West"/>
   </Npcs>
   <Npcs>
-    <Npc Name="Slev" X="3" Y="2" Direction="3"/>
+    <Npc Name="Slev" X="3" Y="2" Direction="West"/>
   </Npcs>
   <Npcs>
-    <Npc Name="Troy" X="3" Y="5" Direction="3"/>
+    <Npc Name="Troy" X="3" Y="5" Direction="West"/>
   </Npcs>
   <Npcs>
-    <Npc Name="Vorlof" X="3" Y="8" Direction="0"/>
+    <Npc Name="Vorlof" X="3" Y="8" Direction="North"/>
   </Npcs>
 </Map>
 <!-- Scripted By ShadowOffice  -->

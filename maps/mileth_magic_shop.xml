@@ -10,7 +10,7 @@
     </Warp>
   </Warps>
   <Npcs>
-    <Npc Name="Cian" X="7" Y="6" Direction="2"/>
+    <Npc Name="Cian" X="7" Y="6" Direction="South"/>
   </Npcs>
 </Map>
 <!-- Scripted By ShadowOffice  -->
