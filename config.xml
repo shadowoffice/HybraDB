@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<!-- Example server configuration file for Hybrasyl Server -->
+<ServerConfig xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <!-- Logging levels can be set here, consult schema -->
+  <Logging />
+  <!-- Your redis datastore, used to store player state information and mailboxes -->
+  <DataStore Host="127.0.0.1"/>
+  <Network>
+    <!-- Where your server will start and run. Default is to bind on all interfaces -->
+    <Lobby Port="2610" />
+    <Login Port="2611" />
+    <World Port="2612" />
+  </Network>
+  <Access>
+    <!-- This user can run all commands marked as privileged -->
+    <Privileged>Kedian</Privileged>
+  </Access>
+  <!-- Messageboards can be defined here, consult schema -->
+  <Boards>
+    <Board Name="hybrasyl" DisplayName="Hybrasyl Global Board"/>
+  </Boards>
+  <Time>
+    <Ages>
+      <!-- You can define multiple ages here. This defines an Age
+           called "Hybrasyl" starting with the first public commit to
+           the server repository. You can specify an end date to a
+           previous age; Hybrasyl's time system then instinctively
+           "knows" when it is, even in the past.
+      -->
+      <Age Name="Hybrasyl" StartDate="2015-03-24T02:53:00Z" StartYear="1"/>
+    </Ages>
+    <ServerStart>2015-03-24T02:53:00Z</ServerStart>
+  </Time>
+  <Handlers>
+    <!-- What do we do upon death? -->
+    <Death Active="true" Perishable="true" GroupNotify="true">
+      <Map X="14" Y="6">Death Map</Map>
+      <!-- This status will be applied to someone who is grouped whose HP reaches 0. -->
+      <Coma Timeout="30" Effect="24">Coma</Coma>
+      <!-- XP/HP penalties for dying -->
+      <Penalty Xp="0.02" Hp="0.01" />
+      <!-- A mark the player will receive on their legend. If
+           increment=true a number will be kept and added if they die
+           multiple times. -->
+      <LegendMark Increment="true">Mark of Death</LegendMark>
+    </Death>
+    <NewPlayer>
+      <!-- Where will a new player start? One of these is selected at random. -->
+      <StartMaps>
+        <StartMap X="3" Y="3">Mileth Inn Room 1</StartMap>
+        <StartMap X="3" Y="3">Mileth Inn Room 2</StartMap>
+        <StartMap X="3" Y="3">Mileth Inn Room 3</StartMap>
+        <StartMap X="3" Y="3">Mileth Inn Room 4</StartMap>
+        <StartMap X="3" Y="3">Mileth Inn Room 5</StartMap>
+        <StartMap X="3" Y="3">Mileth Inn Room 6</StartMap>
+        <StartMap X="3" Y="3">Mileth Inn Room 7</StartMap>
+        <StartMap X="3" Y="3">Mileth Inn Room 8</StartMap>
+        <StartMap X="3" Y="3">Mileth Inn Room 9</StartMap>
+        <StartMap X="3" Y="3">Mileth Inn Room 10</StartMap>
+      </StartMaps>
+    </NewPlayer>
+</Handlers>
+</ServerConfig>

@@ -8,13 +8,10 @@
 # You will need xmllint installed (e.g. `sudo apt install
 # libxml2-utils` on Ubuntu).
 
-RET=0
-
 for x in $(find . -name '*.xml'); do
     xmllint --noout $x
-    RET=$?
+    if [ $? -eq 0 ]; then
+        echo "${x}: validated successfully"
+    fi
 done
 
-if [ ${RET} -eq 0 ]; then
-    echo "All files validated successfully."
-fi
