@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Giant Stone Club</Name>
+  <Properties>
+    <Appearance Sprite="509" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="100000" Weight="29" Durability="300000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="TwoHand"/>
+    <StatModifiers>
+      <Base Str="0" Con="0" Int="0" Wis="0" Dex="0" Hp="0" Mp="0"/>
+      <Combat Hit="-2" Dmg="0" Ac="2" Regen="0" Mr="0"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="1" Max="420"/>
+      <Large Min="1" Max="420"/>
+    </Damage>
+    <Restrictions>
+      <Level Min="36"/>
+      <Class>Warrior</Class>
+    </Restrictions>
+  </Properties>
+</Item>

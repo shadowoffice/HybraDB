@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Map xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02" Id="717" X="12" Y="12">
+  <Name>Mileth Training Room</Name>
+  <Warps>
+    <Warp X="11" Y="5">
+      <MapTarget X="18" Y="84">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="11" Y="6">
+      <MapTarget X="18" Y="84">Mileth Village</MapTarget>
+    </Warp>
+  </Warps>
+  <Npcs>
+    <Npc Name="Gallen" X="8" Y="2" Direction="West"/>
+  </Npcs>
+  <Npcs>
+    <Npc Name="Slev" X="3" Y="2" Direction="West"/>
+  </Npcs>
+  <Npcs>
+    <Npc Name="Troy" X="3" Y="5" Direction="West"/>
+  </Npcs>
+  <Npcs>
+    <Npc Name="Vorlof" X="3" Y="8" Direction="North"/>
+  </Npcs>
+</Map>
+<!-- Scripted By ShadowOffice  -->

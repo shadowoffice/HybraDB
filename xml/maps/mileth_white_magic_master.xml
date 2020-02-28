@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Map xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02" Id="302" X="15" Y="15">
+  <Name>Mileth White Magic Master</Name>
+  <Warps>
+    <Warp X="7" Y="14">
+      <MapTarget X="16" Y="62">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="8" Y="14">
+      <MapTarget X="16" Y="62">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="8" Y="14">
+      <MapTarget X="12" Y="1">Mileth Combat Skill Master</MapTarget>
+    </Warp>
+    <Warp X="7" Y="14">
+      <MapTarget X="12" Y="1">Mileth Combat Skill Master</MapTarget>
+    </Warp>
+  </Warps>
+  <Npcs>
+    <Npc Name="Devlin" X="5" Y="2" Direction="South"/>
+  </Npcs>
+</Map>
+<!-- Scripted By ShadowOffice  -->

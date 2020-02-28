@@ -1,0 +1,6 @@
+﻿<?xml version="1.0"?>
+<Npc xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Cian</Name>
+  <DisplayName>Cian</DisplayName>
+  <Appearance Sprite="35"/>
+</Npc>

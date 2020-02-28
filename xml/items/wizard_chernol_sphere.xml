@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Chernol Sphere</Name>
+  <Properties>
+    <Appearance Sprite="2040" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="1032000" Weight="7" Durability="800000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="Staff"/>
+    <StatModifiers>
+      <Base Str="1" Con="0" Int="-1" Wis="-1" Dex="0" Hp="0" Mp="2000"/>
+      <Combat Hit="1" Dmg="1" Ac="-5" Regen="0" Mr="20"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="4" Max="20"/>
+      <Large Min="106" Max="130"/>
+    </Damage>
+    <Restrictions>
+      <Ab Min="22"/>
+      <Class>Wizard</Class>
+    </Restrictions>
+  </Properties>
+</Item>

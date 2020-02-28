@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Magus Ares</Name>
+  <Properties>
+    <Appearance Sprite="132" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="245000" Weight="5" Durability="3000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="Staff"/>
+    <StatModifiers>
+      <Base Str="0" Con="0" Int="0" Wis="0" Dex="0" Hp="0" Mp="0"/>
+      <Combat Hit="0" Dmg="0" Ac="0" Regen="0" Mr="0"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="4" Max="4"/>
+      <Large Min="6" Max="30"/>
+    </Damage>
+    <Restrictions>
+      <Level Min="19"/>
+      <Class>Wizard</Class>
+    </Restrictions>
+  </Properties>
+</Item>

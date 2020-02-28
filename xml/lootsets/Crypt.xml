@@ -1,0 +1,14 @@
+<LootSet Name="Crypt" xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Table Rolls="2" Chance="0.08">
+    <Items>
+      <Item Max="1">Dirk</Item>
+      <Item Variants="Consecratable">Boots</Item>
+    </Items>
+  </Table>
+  <Table Rolls="2" Chance="0.01">
+    <Items>
+      <Item Unique="true" Variants="Enchantable">Boots</Item>
+    </Items>
+    <Gold Min="100" Max="200"/>
+  </Table>
+</LootSet>

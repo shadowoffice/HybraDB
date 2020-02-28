@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Grum Blade</Name>
+  <Properties>
+    <Appearance Sprite="2038" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="1032000" Weight="23" Durability="800000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="TwoHand"/>
+    <StatModifiers>
+      <Base Str="2" Con="0" Int="0" Wis="0" Dex="1" Hp="0" Mp="0"/>
+      <Combat Hit="7" Dmg="7" Ac="5" Regen="0" Mr="10"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="654" Max="704"/>
+      <Large Min="724" Max="752"/>
+    </Damage>
+    <Restrictions>
+      <Ab Min="22"/>
+      <Class>Warrior</Class>
+    </Restrictions>
+  </Properties>
+</Item>

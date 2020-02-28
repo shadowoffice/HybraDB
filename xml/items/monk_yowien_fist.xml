@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Yowien Fist</Name>
+  <Properties>
+    <Appearance Sprite="13540" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="500000" Weight="12" Durability="1000000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="OneHand"/>
+    <StatModifiers>
+      <Base Str="7" Con="7" Int="7" Wis="7" Dex="7" Hp="8200" Mp="5500"/>
+      <Combat Hit="18" Dmg="25" Ac="-10" Regen="0" Mr="20"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="1304" Max="1597"/>
+      <Large Min="1606" Max="1804"/>
+    </Damage>
+    <Restrictions>
+      <Ab Min="80"/>
+      <Class>Monk</Class>
+    </Restrictions>
+  </Properties>
+</Item>

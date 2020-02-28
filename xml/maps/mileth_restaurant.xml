@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Map xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02" Id="129" X="15" Y="15">
+  <Name>Mileth Restaurant</Name>
+  <Warps>
+    <Warp X="9" Y="14">
+      <MapTarget X="63" Y="61">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="8" Y="14">
+      <MapTarget X="62" Y="61">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="12" Y="0">
+      <MapTarget X="10" Y="13">Mileth Tavern</MapTarget>
+    </Warp>
+  </Warps>
+  <Npcs>
+    <Npc Name="Mushin" X="6" Y="7" Direction="South"/>
+  </Npcs>
+  <Npcs>
+    <Npc Name="Dona" X="6" Y="4" Direction="South"/>
+  </Npcs>
+</Map>
+<!-- Scripted By ShadowOffice  -->

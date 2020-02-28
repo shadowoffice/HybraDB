@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Map xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02" Id="401" X="15" Y="15">
+  <Name>Mileth Black Magic Master</Name>
+  <Warps>
+    <Warp X="7" Y="14">
+      <MapTarget X="20" Y="22">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="8" Y="14">
+      <MapTarget X="20" Y="22">Mileth Village</MapTarget>
+    </Warp>
+  </Warps>
+  <Npcs>
+    <Npc Name="Dar" X="5" Y="2" Direction="North"/>
+  </Npcs>
+</Map>
+<!-- Scripted By ShadowOffice  -->

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Map xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02" Id="400" X="15" Y="15">
+  <Name>Mileth Special Skill Master</Name>
+  <Warps>
+    <Warp X="6" Y="14">
+      <MapTarget X="14" Y="42">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="7" Y="14">
+      <MapTarget X="14" Y="42">Mileth Village</MapTarget>
+    </Warp>
+  </Warps>
+  <Npcs>
+    <Npc Name="Daithi" X="5" Y="5" Direction="South"/>
+  </Npcs>
+</Map>
+<!-- Scripted By ShadowOffice  -->

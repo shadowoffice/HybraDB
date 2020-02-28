@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Masquerade</Name>
+  <Properties>
+    <Appearance Sprite="170" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="5500" Weight="15" Durability="12000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="OneHand"/>
+    <StatModifiers>
+      <Base Str="0" Con="0" Int="-1" Wis="-1" Dex="0" Hp="0" Mp="-2000"/>
+      <Combat Hit="0" Dmg="0" Ac="0" Regen="0" Mr="0"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="31" Max="41"/>
+      <Large Min="35" Max="45"/>
+    </Damage>
+    <Restrictions>
+      <Level Min="31"/>
+    </Restrictions>
+  </Properties>
+</Item>

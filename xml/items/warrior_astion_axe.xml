@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Astion Axe</Name>
+  <Properties>
+    <Appearance Sprite="512" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="480000" Weight="22" Durability="800000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="OneHand"/>
+    <StatModifiers>
+      <Base Str="1" Con="0" Int="0" Wis="0" Dex="1" Hp="0" Mp="0"/>
+      <Combat Hit="0" Dmg="0" Ac="0" Regen="0" Mr="10"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable Master</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="184" Max="574"/>
+      <Large Min="144" Max="594"/>
+    </Damage>
+    <Restrictions>
+      <Level Min="99"/>
+      <Class>Warrior</Class>
+    </Restrictions>
+  </Properties>
+</Item>

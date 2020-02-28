@@ -1,6 +1,0 @@
-﻿<?xml version="1.0"?>
-<Npc xmlns="http://www.hybrasyl.com/XML/Creature">
-  <Name>Muhsin</Name>
-  <DisplayName>Muhsin</DisplayName>
-  <Appearance Sprite="58"/>
-</Npc>

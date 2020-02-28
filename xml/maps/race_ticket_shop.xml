@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Map xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02" Id="381" X="12" Y="12">
+  <Name>Race Ticket Shop</Name>
+  <Warps>
+    <Warp X="12" Y="6">
+      <MapTarget X="60" Y="80">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="12" Y="5">
+      <MapTarget X="60" Y="80">Mileth Village</MapTarget>
+    </Warp>
+  </Warps>
+</Map>
+<!-- Scripted By ShadowOffice  -->

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Magus Hy-Brasyl Gnarl</Name>
+  <Properties>
+    <Appearance Sprite="876" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="24500" Weight="5" Durability="300000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="Staff"/>
+    <StatModifiers>
+      <Base Str="2" Con="0" Int="-2" Wis="-1" Dex="0" Hp="-500" Mp="1000"/>
+      <Combat Hit="0" Dmg="0" Ac="0" Regen="0" Mr="20"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="4" Max="20"/>
+      <Large Min="6" Max="30"/>
+    </Damage>
+    <Restrictions>
+      <Level Min="99"/>
+      <Class>Priest</Class>
+    </Restrictions>
+  </Properties>
+</Item>

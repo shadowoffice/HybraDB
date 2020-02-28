@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Map xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02" Id="136" X="12" Y="12">
+  <Name>Mileth Inn</Name>
+  <Warps>
+    <Warp X="5" Y="11">
+      <MapTarget X="27" Y="44">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="6" Y="11">
+      <MapTarget X="27" Y="44">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="11" Y="2">
+      <MapTarget X="33" Y="37">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="11" Y="3">
+      <MapTarget X="33" Y="37">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="0" Y="9">
+      <MapTarget X="3" Y="15">Mileth Inn Corridor 1</MapTarget>
+    </Warp>
+  </Warps>
+  <Npcs>
+    <Npc Name="Riona" X="3" Y="3" Direction="North"/>
+  </Npcs>
+</Map>
+<!-- Scripted By ShadowOffice  -->

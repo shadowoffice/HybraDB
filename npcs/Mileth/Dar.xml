@@ -1,6 +1,0 @@
-﻿<?xml version="1.0"?>
-<Npc xmlns="http://www.hybrasyl.com/XML/Creature">
-  <Name>Dar</Name>
-  <DisplayName>Dar</DisplayName>
-  <Appearance Sprite="37"/>
-</Npc>

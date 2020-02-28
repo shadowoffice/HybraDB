@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Map xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02" Id="132" X="15" Y="15">
+  <Name>Mileth Weapon Shop</Name>
+  <Warps>
+    <Warp X="6" Y="14">
+      <MapTarget X="13" Y="69">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="7" Y="14">
+      <MapTarget X="13" Y="69">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="12" Y="0">
+      <MapTarget X="1" Y="9">Mileth Armor Shop</MapTarget>
+    </Warp>
+  </Warps>
+  <Npcs>
+    <Npc Name="Torrance" X="6" Y="7" Direction="North"/>
+  </Npcs>
+</Map>
+<!-- Scripted By ShadowOffice  -->

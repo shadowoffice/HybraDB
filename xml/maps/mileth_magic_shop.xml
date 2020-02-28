@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Map xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02" Id="127" X="15" Y="15">
+  <Name>Mileth Magic Shop</Name>
+  <Warps>
+    <Warp X="7" Y="14">
+      <MapTarget X="26" Y="16">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="6" Y="14">
+      <MapTarget X="26" Y="16">Mileth Village</MapTarget>
+    </Warp>
+  </Warps>
+  <Npcs>
+    <Npc Name="Cian" X="7" Y="6" Direction="South"/>
+  </Npcs>
+</Map>
+<!-- Scripted By ShadowOffice  -->

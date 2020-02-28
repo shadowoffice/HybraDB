@@ -1,6 +1,0 @@
-﻿<?xml version="1.0"?>
-<Npc xmlns="http://www.hybrasyl.com/XML/Creature">
-  <Name>Cassidy</Name>
-  <DisplayName>Cassidy</DisplayName>
-  <Appearance Sprite="56"/>
-</Npc>

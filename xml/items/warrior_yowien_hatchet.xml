@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Yowien Hatchet</Name>
+  <Properties>
+    <Appearance Sprite="12085" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="500000" Weight="18" Durability="6800000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="OneHand"/>
+    <StatModifiers>
+      <Base Str="12" Con="0" Int="0" Wis="0" Dex="8" Hp="8500" Mp="0"/>
+      <Combat Hit="13" Dmg="13" Ac="3" Regen="0" Mr="0"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="1543" Max="1802"/>
+      <Large Min="1888" Max="2089"/>
+    </Damage>
+    <Restrictions>
+      <Ab Min="80"/>
+      <Class>Warrior</Class>
+    </Restrictions>
+  </Properties>
+</Item>

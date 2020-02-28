@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Map xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02" Id="201" X="17" Y="5">
+  <Name>Mileth Inn Corridor 2</Name>
+  <Warps>
+    <Warp X="2" Y="4">
+      <MapTarget X="3" Y="1">Mileth Inn Corridor 1</MapTarget>
+    </Warp>
+    <Warp X="1" Y="4">
+      <MapTarget X="2" Y="1">Mileth Inn Corridor 1</MapTarget>
+    </Warp>
+    <Warp X="2" Y="0">
+      <MapTarget X="4" Y="6">Mileth Inn Room 6</MapTarget>
+    </Warp>
+    <Warp X="5" Y="0">
+      <MapTarget X="4" Y="6">Mileth Inn Room 7</MapTarget>
+    </Warp>
+    <Warp X="8" Y="0">
+      <MapTarget X="4" Y="6">Mileth Inn Room 8</MapTarget>
+    </Warp>
+    <Warp X="11" Y="0">
+      <MapTarget X="4" Y="6">Mileth Inn Room 9</MapTarget>
+    </Warp>
+    <Warp X="14" Y="0">
+      <MapTarget X="4" Y="6">Mileth Inn Room 10</MapTarget>
+    </Warp>
+  </Warps>
+</Map>
+<!-- Scripted By ShadowOffice  -->

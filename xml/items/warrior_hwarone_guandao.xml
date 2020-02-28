@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Hwarone Guandao</Name>
+  <Properties>
+    <Appearance Sprite="3272" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="150000" Weight="18" Durability="500000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="TwoHand"/>
+    <StatModifiers>
+      <Base Str="1" Con="0" Int="0" Wis="0" Dex="1" Hp="2000" Mp="0"/>
+      <Combat Hit="13" Dmg="13" Ac="2" Regen="0" Mr="10"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="974" Max="1004"/>
+      <Large Min="1114" Max="1254"/>
+    </Damage>
+    <Restrictions>
+      <Ab Min="45"/>
+      <Class>Warrior</Class>
+    </Restrictions>
+  </Properties>
+</Item>

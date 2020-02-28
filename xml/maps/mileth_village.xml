@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<Map xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02" Id="500" X="100" Y="100">
+  <Name>Mileth Village</Name>
+  <Warps>
+    <Warp X="27" Y="43">
+      <MapTarget X="5" Y="10">Mileth Inn</MapTarget>
+    </Warp>
+    <Warp X="28" Y="43">
+      <MapTarget X="6" Y="10">Mileth Inn</MapTarget>
+    </Warp>
+    <Warp X="32" Y="37">
+      <MapTarget X="10" Y="2">Mileth Inn</MapTarget>
+    </Warp>
+    <Warp X="32" Y="38">
+      <MapTarget X="10" Y="2">Mileth Inn</MapTarget>
+    </Warp>
+    <Warp X="15" Y="41">
+      <MapTarget X="6" Y="13">Mileth Special Skill Master</MapTarget>
+    </Warp>
+    <Warp X="14" Y="41">
+      <MapTarget X="6" Y="13">Mileth Special Skill Master</MapTarget>
+    </Warp>
+    <Warp X="18" Y="62">
+      <MapTarget X="10" Y="9">Mileth Armor Shop</MapTarget>
+    </Warp>
+    <Warp X="13" Y="68">
+      <MapTarget X="6" Y="13">Mileth Weapon Shop</MapTarget>
+    </Warp>
+    <Warp X="17" Y="84">
+      <MapTarget X="10" Y="5">Mileth Training Room</MapTarget>
+    </Warp>
+    <Warp X="31" Y="82">
+      <MapTarget X="7" Y="13">Mileth Messenger</MapTarget>
+    </Warp>
+    <Warp X="42" Y="58">
+      <MapTarget X="6" Y="13">Mileth Goods Shop</MapTarget>
+    </Warp>
+    <Warp X="59" Y="80">
+      <MapTarget X="10" Y="5">Race Ticket Shop</MapTarget>
+    </Warp>
+    <Warp X="73" Y="79">
+      <MapTarget X="6" Y="13">Mileth Combat Skill Master</MapTarget>
+    </Warp>
+    <Warp X="80" Y="73">
+      <MapTarget X="13" Y="8">Mileth White Magic Master</MapTarget>
+    </Warp>
+    <Warp X="62" Y="60">
+      <MapTarget X="8" Y="13">Mileth Restaurant</MapTarget>
+    </Warp>
+    <Warp X="63" Y="60">
+      <MapTarget X="9" Y="13">Mileth Restaurant</MapTarget>
+    </Warp>
+    <Warp X="69" Y="54">
+      <MapTarget X="13" Y="4">Mileth Tavern</MapTarget>
+    </Warp>
+    <Warp X="69" Y="55">
+      <MapTarget X="13" Y="5">Mileth Tavern</MapTarget>
+    </Warp>
+    <Warp X="19" Y="22">
+      <MapTarget X="13" Y="8">Mileth White Magic Master</MapTarget>
+    </Warp>
+    <Warp X="19" Y="23">
+      <MapTarget X="13" Y="8">Mileth White Magic Master</MapTarget>
+    </Warp>
+    <Warp X="26" Y="15">
+      <MapTarget X="6" Y="13">Mileth Magic Shop</MapTarget>
+    </Warp>
+  </Warps>
+  <Npcs>
+    <Npc Name="Beggar" X="89" Y="49" Direction="South"/>
+  </Npcs>
+  <Signs>
+    <Sign Type="Sign" X="13" Y="42">
+      <Message>Daithi - Talents for The Dexterous. Arts for everyone</Message>
+    </Sign>
+    <Sign Type="Messageboard" X="67" Y="17">
+      <Name>Mileth Village Board</Name>
+      <Description>Mileth Village community board</Description>
+    </Sign>
+    <Sign Type="Sign" X="34" Y="40">
+      <Message>Riona - Inn of Mileth.  A soft bed and a pleasant dream to any passing mundane or wandering Aisling</Message>
+    </Sign>
+    <Sign Type="Sign"  X="34" Y="40">
+      <Message>Get your weapons here!</Message>
+    </Sign>
+    <Sign Type="Sign"  X="16" Y="71">
+      <Message>Get your weapons here!</Message>
+    </Sign>
+    <Sign Type="Sign"  X="21" Y="64">
+      <Message>Smithing, jewels, and armor.</Message>
+    </Sign>
+    <Sign Type="Sign"  X="21" Y="87">
+      <Message>Trainer of all.</Message>
+    </Sign>
+  </Signs>
+</Map>

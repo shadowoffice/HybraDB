@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Astion Blade</Name>
+  <Properties>
+    <Appearance Sprite="1979" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="580000" Weight="12" Durability="800000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="TwoHand"/>
+    <StatModifiers>
+      <Base Str="1" Con="0" Int="0" Wis="0" Dex="1" Hp="0" Mp="0"/>
+      <Combat Hit="10" Dmg="10" Ac="5" Regen="0" Mr="10"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="284" Max="374"/>
+      <Large Min="444" Max="494"/>
+    </Damage>
+    <Restrictions>
+      <Ab Min="8"/>
+      <Class>Warrior</Class>
+    </Restrictions>
+  </Properties>
+</Item>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Master Saber</Name>
+  <Properties>
+    <Appearance Sprite="181" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="3000000" Weight="7" Durability="4000000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="TwoHand"/>
+    <StatModifiers>
+      <Base Str="-1" Con="0" Int="0" Wis="0" Dex="-1" Hp="1000" Mp="0"/>
+      <Combat Hit="13" Dmg="10" Ac="3" Regen="0" Mr="10"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable Master</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="674" Max="664"/>
+      <Large Min="754" Max="784"/>
+    </Damage>
+    <Restrictions>
+      <Level Min="99"/>
+      <Class>Warrior</Class>
+    </Restrictions>
+  </Properties>
+</Item>

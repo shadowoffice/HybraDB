@@ -1,6 +1,0 @@
-﻿<?xml version="1.0"?>
-<Npc xmlns="http://www.hybrasyl.com/XML/Creature">
-  <Name>Torrance</Name>
-  <DisplayName>Torrance</DisplayName>
-  <Appearance Sprite="30"/>
-</Npc>

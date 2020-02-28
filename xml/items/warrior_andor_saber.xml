@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Andor Saber</Name>
+  <Properties>
+    <Appearance Sprite="3221" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Stackable Max="1"/>
+    <Physical Value="350000" Weight="25" Durability="500000" Perishable="false" Vendorable="false" Bound="false"/>
+    <Equipment Slot="Weapon" Unique="false" WeaponType="TwoHand"/>
+    <StatModifiers>
+      <Base Str="1" Con="0" Int="0" Wis="0" Dex="1" Hp="0" Mp="0"/>
+      <Combat Hit="12" Dmg="12" Ac="4" Regen="0" Mr="10"/>
+    </StatModifiers>
+    <Flags>Depositable Tailorable Exchangeable</Flags>
+    <Variants/>
+    <Damage>
+      <Small Min="974" Max="1004"/>
+      <Large Min="1014" Max="1154"/>
+    </Damage>
+    <Restrictions>
+      <Ab Min="30"/>
+      <Class>Warrior</Class>
+    </Restrictions>
+  </Properties>
+</Item>
