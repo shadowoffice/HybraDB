@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Strings xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+	<Common />
+	<Merchant>
+		<String Key="greeting" Value="Hello. What can I do for you?"/>
+		<String Key="buy" Value="Perhaps I can offer you something you are looking for?"/>
+		<String Key="buy_quantity" Value="How many would you like?"/>
+		<String Key="buy_failure_gold" Value="Come back when you can afford it."/>
+		<String Key="buy_failure_quantity" Value="Sorry, I don't have what you've requested."/>
+		<String Key="sell" Value="What are you selling?"/>
+		<String Key="sell_quantity" Value="How many do you want to sell?"/>
+		<String Key="sell_offer" Value="I'll give you $GOLD coins for $QUANTITY. Deal?"/>
+		<String Key="sell_failure" Value="Sorry. I don't know what happened."/>
+		<String Key="sell_failure_quantity" Value="You don't have that many…?"/>
+		<String Key="fix_item" Value="What needs to be repaired?"/>
+		<String Key="fix_item_confirm" Value="I'll need $REPAIRAMT gold coins to fix that. Ok?"/>
+		<String Key="fix_all" Value="Well... That will be $REPAIRAMT gold coins. Do you still want to do it?"/>
+		<String Key="fix_fail" Value="Come back when you have money."/>
+		<String Key="learn_spell" Value="It is done."/>
+		<String Key="forget_spell" Value="What do you wish to forget?"/>
+		<String Key="learn_skill" Value="This is what you may learn."/>
+		<String Key="forget_skill" Value="What do you wish to forget?"/>
+		<String Key="learn_skill_choice" Value="$SKILLNAME, $SKILLDESC. Hopefully you will use it well."/>
+		<String Key="learn_skill_reqs" Value="To learn $SKILLNAME, $REQS will have to be presented. Do you want to do that?"/>
+		<String Key="learn_skill_player_level" Value="To learn $SKILLNAME you must be level $LEVEL or greater."/>
+		<String Key="learn_skill_prereq_level" Value="To learn $SKILLNAME, $PREREQ must be level $LEVEL or greater."/>
+		<String Key="learn_skill_prereq_stats" Value="You lack the physical requirements to learn $SKILLNAME. $STATS"/>
+		<String Key="learn_skill_prereq_gold" Value="Come back when you have the correct fee."/>
+		<String Key="learn_skill_prereq_item" Value="Come back when you have the items that I seek."/>
+		<String Key="learn_skill_success" Value="It is done."/>
+		<String Key="learn_spell_choice" Value="$SPELLNAME, $SPELLDESC. Hopefully you will use it well."/>
+		<String Key="learn spell_reqs" Value="To learn $SPELLNAME, $REQS and $GOLD have to be presented to me. Do you want to do that?"/>
+		<String Key="learn_spell_player_level" Value="To learn $SPELLNAME you must be insight $LEVEL or greater."/>
+		<String Key="learn_spell_prereq_level" Value="To learn $SPELLNAME, $PREREQ must be level $LEVEL or greater."/>
+		<String Key="learn_spell_prereq_stats" Value="You lack the physical fortitude to learn $SPELLNAME. $STATS"/>
+		<String Key="learn_spell_prereq_gold" Value="Return when you have the coin."/>
+		<String Key="learn_spell_prereq_item" Value="Return when you have what I require."/>
+		<String Key="learn_spell_success" Value="It is done."/>
+		<String Key="forget_castable_success" Value="Let it trouble you no more."/>
+		<String Key="send_parcel" Value="What do you wish to send?"/>
+		<String Key="send_parcel_recipient" Value="To whom do you want this parcel sent?"/>
+		<String Key="send_parcel_success" Value="You've given $FEE coins. It will be done."/>
+		<String Key="send_parcel_fail" Value="I need $FEE coins for postage; $FEE coins!"/>
+		<String Key="receive_parcel" Value="Let me see... ah yes, here it is."/>
+	</Merchant>
+	<NpcSpeak />
+	<MonsterSpeak />
+</Strings>
