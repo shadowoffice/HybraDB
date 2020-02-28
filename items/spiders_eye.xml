@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Spider's Eye</Name>
+  <Properties>
+    <Appearance Sprite="335" DisplaySprite="0"/>
+    <Stackable Max="1"/>
+    <Physical Value="1000" Weight="1" Durability="1" Perishable="false" Vendorable="true" Bound="false"/>
+    <StatModifiers>
+      <Base Str="0" Con="0" Int="0" Wis="0" Dex="0" Hp="0" Mp="0"/>
+      <Combat Hit="0" Dmg="0" Ac="0" Regen="0" Mr="0"/>
+    </StatModifiers>
+    <Flags>Depositable Exchangeable Vendorable</Flags>
+    <Variants/>
+    <Restrictions/>
+  </Properties>
+</Item>
