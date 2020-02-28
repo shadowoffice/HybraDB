@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<VariantGroup xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Enchantable</Name>
+  <Variant>
+    <Name>Abundance</Name>
+    <Modifier>Abundance</Modifier>
+    <Properties>
+      <Flags>Depositable Exchangeable Vendorable</Flags>
+      <Physical Value="100"/>
+      <Restrictions>
+        <Level Min="2"/>
+        <Ab Min="0"/>
+      </Restrictions>
+      <Stateffects>
+        <Combat Hit="10"/>
+      </Stateffects>
+    </Properties>
+  </Variant>
+  <Variant>
+    <Name>Blessed</Name>
+    <Modifier>Blessed</Modifier>
+    <Properties>
+      <Flags>Depositable Exchangeable Vendorable</Flags>
+      <Physical Value="100"/>
+      <Restrictions>
+        <Level Min="2"/>
+      </Restrictions>
+      <Stateffects>
+        <Combat Dmg="5"/>
+      </Stateffects>
+    </Properties>
+  </Variant>
+  <Variant>
+    <Name>Might</Name>
+    <Modifier>Might</Modifier>
+    <Properties>
+      <Flags>Depositable Exchangeable Vendorable Perishable</Flags>
+      <Physical Value="100"/>
+      <Restrictions>
+        <Level Min="2"/>
+      </Restrictions>
+      <Stateffects>
+        <Base Hp="200"/>
+      </Stateffects>
+    </Properties>
+  </Variant>
+  <Variant>
+    <Name>Magic</Name>
+    <Modifier>Magic</Modifier>
+    <Properties>
+      <Flags>Depositable Exchangeable Vendorable</Flags>
+      <Physical Value="100" Weight="50"/>
+      <Restrictions>
+        <Level Min="2"/>
+      </Restrictions>
+      <Stateffects>
+        <Base Mp="50"/>
+      </Stateffects>
+    </Properties>
+  </Variant>
+</VariantGroup>
