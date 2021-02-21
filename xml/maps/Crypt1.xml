@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="1" Music="3" X="50" Y="50" xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Crypt 1</Name>
+  <Flags />
+  <Warps>
+    <Warp X="12" Y="49">
+      <MapTarget X="9" Y="8">Crypt Vestibule</MapTarget>
+    </Warp>
+    <Warp X="13" Y="49">
+      <MapTarget X="9" Y="8">Crypt Vestibule</MapTarget>
+    </Warp>
+    <Warp X="14" Y="49">
+      <MapTarget X="9" Y="8">Crypt Vestibule</MapTarget>
+    </Warp>
+    <Warp X="15" Y="49">
+      <MapTarget X="9" Y="8">Crypt Vestibule</MapTarget>
+    </Warp>
+    <Warp X="16" Y="49">
+      <MapTarget X="9" Y="8">Crypt Vestibule</MapTarget>
+    </Warp>
+    <Warp X="17" Y="49">
+      <MapTarget X="9" Y="8">Crypt Vestibule</MapTarget>
+    </Warp>
+    <Warp X="18" Y="49">
+      <MapTarget X="9" Y="8">Crypt Vestibule</MapTarget>
+    </Warp>
+    <Warp X="3" Y="4">
+      <MapTarget X="43" Y="23">Crypt 2</MapTarget>
+    </Warp>
+  </Warps>
+  <Reactors />
+  <Npcs />
+  <Signs />
+</Map>
