@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="425" X="16" Y="16" xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Crypt Vestibule</Name>
+  <Flags />
+  <Warps>
+    <Warp X="6" Y="15">
+      <MapTarget X="90" Y="56">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="7" Y="15">
+      <MapTarget X="90" Y="56">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="8" Y="15">
+      <MapTarget X="90" Y="56">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="9" Y="15">
+      <MapTarget X="90" Y="56">Mileth Village</MapTarget>
+    </Warp>
+    <Warp X="12" Y="1">
+      <MapTarget X="2" Y="7">Sgath Pit</MapTarget>
+    </Warp>
+    <Warp X="9" Y="6">
+      <MapTarget X="15" Y="45">Crypt 1</MapTarget>
+    </Warp>
+    <Warp X="8" Y="6">
+      <MapTarget X="14" Y="45">Crypt 1</MapTarget>
+    </Warp>
+  </Warps>
+  <Reactors />
+  <Npcs>
+    <Npc Name="Felimid" X="3" Y="6" />
+  </Npcs>
+  <Signs />
+</Map>
