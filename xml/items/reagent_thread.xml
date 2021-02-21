@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Thread</Name>
+  <Comment>Reagent</Comment>
+  <Properties>
+    <Appearance Sprite="3369" Color="White"/>
+    <Stackable Max="30"/>
+    <Physical Value="50" Weight="1" Durability="0"/>
+    <Equipment Slot="None"/>
+    <Flags>Depositable Exchangeable Vendorable</Flags>
+    <Vendor ShopTab="Reagent"/>
+  </Properties>
+</Item>
