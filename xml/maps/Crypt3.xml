@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Id="3" X="50" Y="50" xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Name>Crypt 3</Name>
+  <Flags />
+  <Warps>
+    <Warp X="0" Y="30">
+      <MapTarget X="11" Y="22">Crypt 2</MapTarget>
+    </Warp>
+    <Warp X="41" Y="1">
+      <MapTarget X="4" Y="1">Crypt 4</MapTarget>
+    </Warp>
+  </Warps>
+  <Reactors />
+  <Npcs />
+  <Signs />
+</Map>
