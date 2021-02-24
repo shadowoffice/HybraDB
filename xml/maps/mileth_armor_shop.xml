@@ -3,10 +3,10 @@
   <Name>Mileth Armor Shop</Name>
   <Warps>
     <Warp X="11" Y="9">
-      <MapTarget X="16" Y="62">Mileth Village</MapTarget>
+      <MapTarget X="20" Y="62">Mileth Village</MapTarget>
     </Warp>
     <Warp X="11" Y="8">
-      <MapTarget X="16" Y="62">Mileth Village</MapTarget>
+      <MapTarget X="20" Y="62">Mileth Village</MapTarget>
     </Warp>
     <Warp X="0" Y="9">
       <MapTarget X="12" Y="1">Mileth Weapon Shop</MapTarget>

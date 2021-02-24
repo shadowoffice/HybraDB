@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
-  <Name>Centipede Gland</Name>
+  <Name>Centipede's Gland</Name>
   <Properties>
     <Appearance Sprite="327" DisplaySprite="0"/>
     <Stackable Max="1"/>

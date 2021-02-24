@@ -10,7 +10,7 @@
     </Warp>
   </Warps>
   <Npcs>
-    <Npc Name="Inn Keeper" X="7" Y="7" Direction="South"/>
+    <Npc Name="Riona" X="7" Y="7" Direction="South"/>
   </Npcs>
 </Map>
 <!-- Scripted By ShadowOffice  -->

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpawnGroup xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
+  <Maps>
+    <Map Name="Mileth Inn" MinSpawn="1" MaxSpawn="5" Limit="5" Interval="40"/>
+  </Maps>
+  <Spawns>
+    <Spawn Base="Bee">
+      <Respawn Max="5" Percentage="100"/>
+      <Damage Min="14" Max="18"/>
+      <Defense Ac="96"/>
+      <Stats Hp="100" Level="1" Str="100" Int="100" Wis="100" Con="100" Dex="100"/>
+      <Loot Xp="260">
+        <Table Rolls="3" Chance="0.75">
+        <Items>
+          <Item>Rotten Vegetable</Item>
+          <Item>Mold</Item>
+          <Item>Moldy Bread Slice</Item>
+        </Items>
+        <Gold Min="0" Max="20"/>
+        </Table>
+      </Loot>
+    </Spawn>
+  </Spawns>
+</SpawnGroup>

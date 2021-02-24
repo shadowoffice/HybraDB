@@ -1,44 +1,36 @@
 <?xml version="1.0"?>
-<Castable xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02" Lines="1" Icon="1" Book="PrimarySkill" Element="None" Class="Monk Priest Peasant Rogue Warrior Wizard" Cooldown="0" IsAssail="true" Reflectable="false">
-  <Name>Assail</Name>
-  <Descriptions>
-    <Description Class="Monk Priest Peasant Rogue Warrior Wizard">A basic attack</Description>
-  </Descriptions>
-  <Categories>
-    <Category>Skill</Category>
-    <Category>Assails</Category>
-  </Categories>
-  <Intents>
-    <Intent UseType="NoTarget" maxTargets="1" Flags="Hostile Pvp">
-      <Tile Direction="Front"/>
-    </Intent>
-  </Intents>
-  <MaxLevel Monk="100" Warrior="100" Peasant="20" Wizard="40" Priest="40" Rogue="80"/>
-  <Requirements>
-    <Requirement Class="Monk Priest Peasant Rogue Warrior Wizard">
-      <Level Min="1" Max="99"/>
-      <Gold>50</Gold>
-      <Physical Str="3" Int="3" Wis="3" Con="3" Dex="3"/>
-    </Requirement>
-  </Requirements>
-  <Effects>
-    <Animations>
-      <OnCast>
-        <Player>
-          <Motion Class="Peasant" Id="1" Speed="20"/>
-          <Motion Class="Warrior" Id="1" Speed="20"/>
-          <Motion Class="Wizard" Id="1" Speed="20"/>
-          <Motion Class="Priest" Id="1" Speed="20"/>
-          <Motion Class="Rogue" Id="1" Speed="20"/>
-          <Motion Class="Monk" Id="132" Speed="20"/>
-        </Player>
-      </OnCast>
-    </Animations>
-    <Sound Id="1"/>
-    <Damage Type="Physical">
-      <Flags>Threat</Flags>
-      <Formula>(($CASTERSTR*2)+($CASTERDMG*4)+($CASTERWEAPONDMG*2)+($RAND_100))</Formula>
-    </Damage>
-  </Effects>
-  <Mastery Uses="2000" Tiered="false"/>
+<Castable xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02" Type="Skill" Icon="1" Book="PrimarySkill" Class="Peasant" Cooldown="0" IsAssail="true" Element="None">
+    <Name>Assail</Name>
+    <Descriptions>
+        <Description Class="Peasant">A basic attack</Description>
+    </Descriptions>
+    <Categories>
+        <Category>Skill</Category>
+        <Category>Assail</Category>
+    </Categories>
+    <Intents>
+        <Intent UseType="NoTarget" maxTargets="1" Radius="1" Direction="Front" Target="Hostile Pvp"/>
+    </Intents>
+    <MaxLevel Wizard="40" Priest="40" Warrior="100" Rogue="80" Monk="100" Peasant="20"/>
+    <Requirements>
+        <Requirement Class="Peasant">
+            <Level Min="1" Max="99"/>
+            <Gold>50</Gold>
+            <Physical Str="3" Int="3" Wis="3" Con="3" Dex="3"/>
+        </Requirement>
+    </Requirements>
+    <Effects>
+        <Animations>
+            <OnCast>
+                <Player>
+                    <Motion Id="1" Speed="26"/>
+                </Player>
+            </OnCast>
+        </Animations>
+        <Sound Id="1"/>
+        <Damage Type="Physical">
+            <Flags>Threat</Flags>
+            <Formula>(($CASTERSTR*2)+($CASTERBONUSDMG*4)+($CASTERWEAPONDMG))+50</Formula>
+        </Damage>
+    </Effects>
 </Castable>
