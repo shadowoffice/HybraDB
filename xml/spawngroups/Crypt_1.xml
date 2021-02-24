@@ -12,7 +12,7 @@
       <Loot Xp="360">
         <Set Name="Crypt" Rolls="1" Chance="0.05"/>
         <Table Rolls="1" Chance="0.08">
-          <Item Min="0">Centipede's Gland</Item>
+          <Item Min="0">Centipede Gland</Item>
         </Table>
       </Loot>
     </Spawn>
