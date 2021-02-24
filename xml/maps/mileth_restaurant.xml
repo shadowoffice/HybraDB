@@ -13,7 +13,7 @@
     </Warp>
   </Warps>
   <Npcs>
-    <Npc Name="Mushin" X="6" Y="7" Direction="South"/>
+    <Npc Name="Muhsin" X="6" Y="7" Direction="South"/>
   </Npcs>
   <Npcs>
     <Npc Name="Dona" X="6" Y="4" Direction="South"/>

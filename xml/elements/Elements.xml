@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ElementTable xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02" Id="136" X="12" Y="12">
+  <Name>Elements Table</Name>
+  <Source Element="None">
+    <Target Element="None" Multiplier = "1.0"/>
+  </Source>
+
+  <Source Element="Fire">
+    <Target Element="Fire" Multiplier = "0.7"/>
+  </Source>
+</ElementTable>
+<!-- Scripted By ShadowOffice  -->

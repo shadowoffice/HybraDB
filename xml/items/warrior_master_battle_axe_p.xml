@@ -13,7 +13,7 @@
     <Flags>Depositable Tailorable Exchangeable Master</Flags>
     <Variants/>
     <Damage>
-      <Small Min="974" Max="1,004"/>
+      <Small Min="974" Max="1004"/>
       <Large Min="654" Max="684"/>
     </Damage>
     <Restrictions>

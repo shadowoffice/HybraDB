@@ -18,7 +18,7 @@
     </Damage>
     <Restrictions>
       <Level Min="19"/>
-      <Class>wizard</Class>
+      <Class>Wizard</Class>
     </Restrictions>
   </Properties>
 </Item>

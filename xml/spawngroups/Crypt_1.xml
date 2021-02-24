@@ -1,64 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SpawnGroup xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
   <Maps>
-    <Map Name="Crypt 1" MinSpawn="8" MaxSpawn="16" Limit="40" Interval="15">
-      <LastSpawn>0001-01-01T00:00:00</LastSpawn>
-      <Id>0</Id>
-    </Map>
+    <Map Name="Crypt 1-1" MinSpawn="8" MaxSpawn="16" Limit="40" Interval="15"/>
   </Maps>
   <Spawns>
     <Spawn Base="Centipede">
       <Respawn Max="3" Percentage="20"/>
-      <Damage Min="29" Max="33"/>
+      <Damage Min="38" Max="42"/>
       <Defense Ac="93"/>
       <Stats Hp="300" Level="3" Str="100" Int="100" Wis="100" Con="100" Dex="100"/>
       <Loot Xp="360">
-        <Set Name="Crypt" Rolls="1" Chance="0.25"/>
-        <Table Rolls="2" Chance="0.50">
-          <Items>
-            <Item Min="0">Centipede Gland</Item>
-          </Items>
-          <Gold Min="0" Max="25"/>
+        <Set Name="Crypt" Rolls="1" Chance="0.05"/>
+        <Table Rolls="1" Chance="0.08">
+          <Item Min="0">Centipede Gland</Item>
         </Table>
       </Loot>
-      <Castables>
-        <Offense/>
-      </Castables>
     </Spawn>
     <Spawn Base="Spider">
       <Respawn Max="5" Percentage="20"/>
-      <Damage Min="17" Max="21"/>
+      <Damage Min="22" Max="26"/>
       <Defense Ac="94"/>
       <Stats Hp="120" Level="2" Str="100" Int="100" Wis="100" Con="100" Dex="100"/>
       <Loot Xp="180">
         <Set Name="Crypt" Rolls="1" Chance="0.25"/>
-        <Items>
-          <Item Min="0">Spider Leg</Item>
-          <Item Min="0">Spider Egg</Item>
-        </Items>
       </Loot>
-      <Castables>
-        <Offense/>
-      </Castables>
     </Spawn>
     <Spawn Base="Spider">
       <Respawn Max="5" Percentage="20"/>
-      <Damage Min="23" Max="27"/>
+      <Damage Min="30" Max="34"/>
       <Defense Ac="94"/>
       <Stats Hp="160" Level="2" Str="100" Int="100" Wis="100" Con="100" Dex="100"/>
-      <Loot Xp="220">
-        <Set Name="Crypt" Rolls="1" Chance="0.25"/>
-        <Table Rolls="2" Chance="0.2">
-          <Items Rolls="5" Chance="0.02">
-            <Item Min="0">Spider Leg</Item>
-            <Item Min="0">Spider Egg</Item>
-          </Items>
-          <Gold Min="0" Max="75"/>
+      <Loot Xp="180">
+        <Table Rolls="2" Chance="0.08">
+          <Item>Spider's Legs</Item>
+          <Item>Spider's Eye</Item>
         </Table>
       </Loot>
-      <Castables>
-        <Offense/>
-      </Castables>
     </Spawn>
     <Spawn Base="Mouse">
       <Respawn Max="5" Percentage="20"/>
@@ -66,35 +43,31 @@
       <Defense Ac="96"/>
       <Stats Hp="80" Level="1" Str="100" Int="100" Wis="100" Con="100" Dex="100"/>
       <Loot Xp="220">
-        <Set Name="Crypt" Rolls="2" Chance="0.25"/>
         <Table Rolls="3" Chance="0.25">
-          <Items>
-            <Item Min="0">Thread</Item>
-          </Items>
-          <Gold Min="0" Max="50"/>
+        <Items>
+          <Item>Rotten Vegetable</Item>
+          <Item>Mold</Item>
+          <Item>Moldy Bread Slice</Item>
+        </Items>
+          <Gold Min="0" Max="10"/>
         </Table>
       </Loot>
-      <Castables>
-        <Offense/>
-      </Castables>
     </Spawn>
     <Spawn Base="Mouse">
       <Respawn Max="5" Percentage="20"/>
-      <Damage Min="10" Max="14"/>
+      <Damage Min="14" Max="18"/>
       <Defense Ac="96"/>
       <Stats Hp="100" Level="1" Str="100" Int="100" Wis="100" Con="100" Dex="100"/>
       <Loot Xp="260">
-        <Set Name="Crypt" Rolls="2" Chance="0.25"/>
         <Table Rolls="3" Chance="0.75">
-          <Items>
-            <Item Min="0">Thread</Item>
-          </Items>
-          <Gold Min="0" Max="75"/>
+        <Items>
+          <Item>Rotten Vegetable</Item>
+          <Item>Mold</Item>
+          <Item>Moldy Bread Slice</Item>
+        </Items>
+        <Gold Min="0" Max="20"/>
         </Table>
       </Loot>
-      <Castables>
-        <Offense/>
-      </Castables>
     </Spawn>
   </Spawns>
 </SpawnGroup>

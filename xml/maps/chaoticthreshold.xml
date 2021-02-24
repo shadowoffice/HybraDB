@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<Map xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02" Id="300" X="30" Y="30">
-  <Name>Death Map</Name>
+<Map xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02" Id="435" X="30" Y="30">
+  <Name>Chaotic Threshold</Name>
   <Npcs>
     <Npc Name="Resurrector" X="12" Y="6" Direction="North"/>
   </Npcs>

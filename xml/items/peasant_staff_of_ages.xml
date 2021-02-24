@@ -2,7 +2,7 @@
 <Item xmlns="http://www.hybrasyl.com/XML/Hybrasyl/2020-02">
   <Name>Staff of Ages</Name>
   <Properties>
-    <Appearance Sprite="2083" DisplaySprite="1" BodyStyle="Transparent"/>
+    <Appearance Sprite="2284" DisplaySprite="1" BodyStyle="Transparent"/>
     <Stackable Max="1"/>
     <Physical Value="345000" Weight="5" Durability="550000" Perishable="false" Vendorable="false" Bound="false"/>
     <Equipment Slot="Weapon" Unique="false" WeaponType="Staff"/>

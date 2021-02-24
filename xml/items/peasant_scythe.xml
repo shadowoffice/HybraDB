@@ -8,7 +8,8 @@
     <Equipment Slot="Weapon" Unique="false" WeaponType="OneHand"/>
     <StatModifiers>
       <Base Str="0" Con="0" Int="0" Wis="0" Dex="0" Hp="-150" Mp="0"/>
-      <Combat Hit="255" Dmg="1" Ac="2" Regen="0" Mr="0"/>
+      <!-- <Combat Hit="255" Dmg="1" Ac="2" Regen="0" Mr="0"/> -->
+      <Combat Hit="127" Dmg="1" Ac="2" Regen="0" Mr="0"/>
     </StatModifiers>
     <Flags>Depositable Tailorable Exchangeable</Flags>
     <Variants/>
